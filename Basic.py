@@ -155,3 +155,6 @@ elif(year%400==0):
     print("it is a leap year")
 else:
     print("it is not leap year")'''
+
+
+print("bull shit guy")
